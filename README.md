@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron,css,html,js,nodejs,mysql,git,github,postman,vscode,nextjs,notion,express,linux,ai,java,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=electron,css,html,js,nodejs,mysql,git,github,postman,vscode,nextjs,notion,express,linux,vite,ai,java,py&perline=12" />
   </a>
 </p>
 
