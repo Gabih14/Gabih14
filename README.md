@@ -19,7 +19,7 @@
 
 🚀 Me apasiona crear soluciones escalables y eficientes, con buenas prácticas, arquitectura limpia y un enfoque orientado a la experiencia del usuario.
 
-👥 Experiencia aplicando **metodologías ágiles (Scrum)**, planificación con **GitHub Projects** y coordinación de equipos técnicos.
+👥 Experiencia aplicando **metodologías ágiles (Scrum)**, planificación y coordinación de equipos técnicos.
 
 📫 **Contacto**: [hernandezg.alvarez@gmail.com](mailto:hernandezg.alvarez@gmail.com)
 </p>
