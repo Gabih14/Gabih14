@@ -2,34 +2,38 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-hernandez-0206a9227/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gabriel Hernandez"/></a>
-<a href = "mailto:hernandezg.alvarez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-  
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-  
-👨‍💻 Soy **Desarrollador Back-End** especializado en `Node.js` y con conocimiento práctico en `Java`. Actualmente me encuentro finalizando la **Tecnicatura en Programación** en la **UTN**.
-
-🚀 Aunque mi fortaleza está en el **Back-End**, he desarrollado **Front-End** con tecnologías como `Next.js` y `React`, y también he trabajado con `Electron.js`.
-
-🗄️ Parte de mi experiencia incluye la gestión de bases de datos (`MySQL`), desarrollo de **APIs** y uso de `GitHub` para control de versiones.
-
-💼 Además, he desempeñado roles de liderazgo como **Coordinador de Proyectos** y **Scrum Master** (`GitHub Projects`, `Slack`), liderando equipos bajo metodologías **ágiles** para entregar soluciones eficientes y adaptadas a las necesidades del cliente.
-
-📫 **Contacto**: [hernandezg.alvarez@gmail.com](mailto:hernandezg.alvarez@gmail.com)
-<!--Intro end-->
+<a href="mailto:hernandezg.alvarez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2>Sobre mí 😃</h2>
+
+<p align="left">
+
+🎓 **Técnico Superior en Programación (título en trámite)** egresado de la **UTN**, con enfoque en desarrollo **Full Stack**.
+
+💻 Actualmente trabajo desarrollando la **tienda online de una empresa de impresión 3D**, integrada con su sistema de gestión, utilizando **Vite (React)**, **NestJS (TypeScript)** y **MySQL**.
+
+🤖 Experiencia en desarrollo de **chatbots** con flujos personalizables y CRM propio, aplicando **Node.js**, **Next.js** y **Electron.js**.
+
+🚀 Me apasiona crear soluciones escalables y eficientes, con buenas prácticas, arquitectura limpia y un enfoque orientado a la experiencia del usuario.
+
+👥 Experiencia aplicando **metodologías ágiles (Scrum)**, planificación con **GitHub Projects** y coordinación de equipos técnicos.
+
+📫 **Contacto**: [hernandezg.alvarez@gmail.com](mailto:hernandezg.alvarez@gmail.com)
+</p>
+
+<br>
+
+<h2>Tecnologías que uso 👨🏻‍💻</h2>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron,css,html,js,nodejs,mysql,git,github,postman,vscode,nextjs,notion,express,linux,vite,ai,java,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vite,react,nestjs,nodejs,typescript,js,html,css,mysql,git,github,postman,vscode,linux,nextjs,express,java,py&perline=12" />
   </a>
 </p>
 
+---
+
+💡 *“Desarrollo soluciones que combinan rendimiento, claridad y diseño funcional.”*  
