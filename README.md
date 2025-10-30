@@ -34,6 +34,4 @@
   </a>
 </p>
 
----
 
-💡 *“Desarrollo soluciones que combinan rendimiento, claridad y diseño funcional.”*  
